@@ -37,5 +37,7 @@ end
 
 # Define your play method below
 def play()
-  
+  counter = 0
+  loop do
+    
 end
